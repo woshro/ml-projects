@@ -4,15 +4,11 @@ Machine learning pet projects and data science experiments
 
 ## Projects
 
-### 🏠 [House Price Prediction](./house-prices/)
-Предсказание цен на недвижимость с использованием регрессии
-- **Технологии:** Python, scikit-learn, pandas
-- **Метрики:** RMSE = 0.12
+### 🌐[Sibling Languages Classifier](./sibling-langs-classifier/)
+Binary classification system for distinguishing between two related languages using machine learning.
 
-### 🚢 [Titanic Survival](./titanic-survival/)
-Классификация выживших на Титанике
-- **Технологии:** Python, XGBoost
-- **Accuracy:** 82%
-
-## Технологический стек
-Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+- **Tech Stack:** Python, scikit-learn, pandas, TF-IDF
+- **Metrics:** Accuracy = 0.94, F1-Score = 0.94
+ 
+## Tech Stack
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • HuggingFace Datasets 
